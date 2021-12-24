@@ -1,0 +1,1 @@
+This project was created to compress files through binary trees. It saves memory by using less data to encode more frequent characters.
